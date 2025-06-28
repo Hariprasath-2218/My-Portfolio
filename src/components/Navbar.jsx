@@ -12,7 +12,7 @@ const navItems = [
 
 ]
 
-export const Navbar = () => {
+export const Navbar = ({ isDarkMode, setIsDarkMode }) => {
       const [isScrolled, setIsScrolled] = useState(false);
       const [isMenuOpen, setIsMenuOpen] = useState(false);
 
@@ -79,6 +79,7 @@ export const Navbar = () => {
                             {item.name}
                         </a>
                     ))}
+                    <ThemeToggle isDarkMode={isDarkMode} setIsDarkMode={setIsDarkMode}/>
                 </div>
             </div>
         </div>

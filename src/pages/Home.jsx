@@ -19,7 +19,7 @@ export const Home = () => {
         {/* Background Effects */}
         <StarBackground isDarkMode={isDarkMode}/>
         {/* Navbar */}
-        <Navbar/>
+        <Navbar isDarkMode={isDarkMode} setIsDarkMode={setIsDarkMode}/>
         {/* Main Content */}
         <main>
            <HeroSection/>
