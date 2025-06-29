@@ -9,7 +9,7 @@ const projects = [
         "A responsive user authentication system built with React, Tailwind CSS, and Firebase for secure sign-up and login workflows.",
       image: "/projects/project1.png",
       tags: ["React","TailwindCSS","Firebase"],
-      demoURL: "#",
+      demoURL: "https://proplatform.vercel.app/",
       githubURL:"https://github.com/Hariprasath-2218/User_Auth",
     },
     {
@@ -29,8 +29,8 @@ const projects = [
         "A modern e-commerce platform built with the MERN stack, featuring product browsing, secure checkout, and user authentication.",
       image: "/projects/project3.png",
       tags: ["MongoDB", "React", "Node.js"],
-      demoURL: "#",
-      githubURL:"https://github.com/Hariprasath-2218/User_Auth",
+      demoURL: "e-commerce-platform-website.vercel.app",
+      githubURL:"https://github.com/Hariprasath-2218/E-commerce-Website",
     },
 ]
 
