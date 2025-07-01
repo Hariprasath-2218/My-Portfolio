@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hariprasath-2218/hariprasath-2218/main/hi_there_hariprasath.gif" alt="Hi there! I'm Hariprasath" height="140" />
-</p>
-
+![Hi there, I'm Hariprasath](
 
 <div align="justify">
 
