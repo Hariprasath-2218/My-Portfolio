@@ -1,57 +1,31 @@
-![Hi there, I'm Hariprasath](
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/intro.gif" alt="👋 Hi there" height="180" />
+</p>
 
-<div align="justify">
+## 👨‍💻 Software Engineer @ [Zoho Corporation](https://www.zoho.com/)
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yourusername)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
+<img align="right" width="340" height="250" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" alt="coding gif"/>
 
-</div>
+- 🔭 Check out my portfolio → [hareesh.web.app](https://hareesh.web.app/)
+- 🌱 Currently learning and teaching **DSA** & integrating **AI** into my workflow
+- 👨‍💻 Engineering at [<img src="https://www.highbrowtechnology.com/_next/image?url=https%3A%2F%2Fhighbrow-resources.s3.amazonaws.com%2FHighbrow%2BWebsite%2BContent%2FHighbrow_Light.png&w=256&q=75" height="20" />](https://www.highbrowtechnology.com/)
+- 💼 Previously worked at  
+  [<img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/ZOHO_New.png" height="20" />](https://www.zoho.com/)  
+  [<img height="20" src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif" />](https://catalyst.zoho.com/)
 
----
-
-### 👋 Hi there, I'm **Your Name**!
-
-Welcome to my GitHub! I'm a passionate **MERN Stack Developer** who loves building web applications with modern technologies. I enjoy solving real-world problems and constantly learning new things.
+- ⚡ Fun Fact: I know **Japanese** 🇯🇵
 
 ---
 
-## ⚙️ My Tech Stack: MERN
+### 🌐 Social Presence
 
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48" /><br>MongoDB</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="48" /><br>Express.js</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" /><br>React.js</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" /><br>Node.js</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=javascript" width="48" /><br>JavaScript</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" /><br>HTML5</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" /><br>CSS3</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48" /><br>TailwindCSS</td>
-  </tr>
-</table>
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hareesh_dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hareesh-r/)
+[![Instagram](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hareesh_._r/)
 
 ---
 
-## 📊 GitHub Stats
+### 📺 YouTube Channel Stats
 
-<details>
-  <summary>Click to expand 📈</summary>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true&bg_color=fff&title_color=4caf50&icon_color=4caf50" height="192px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default&hide_border=true&bg_color=fff" height="192px"/>
-</details>
-
----
-
-## 🏆 GitHub Profile Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&row=1&margin-w=20&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-<img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" alt="dino gif" />
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCVXHYmFar7yArWvkcjxWXuQ?style=for-the-badge&logo=youtube&color=red)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVXHYmFar7yArWvkcjxWXuQ?style=for-the-badge&logo=youtube&color=red)
