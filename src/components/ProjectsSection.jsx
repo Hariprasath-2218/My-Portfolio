@@ -29,7 +29,7 @@ const projects = [
         "A modern e-commerce platform built with the MERN stack, featuring product browsing, secure checkout, and user authentication.",
       image: "/projects/project3.png",
       tags: ["MongoDB", "React", "Node.js"],
-      demoURL: "e-commerce-platform-website.vercel.app",
+      demoURL: "https://e-commerce-website-zggw.onrender.com/",
       githubURL:"https://github.com/Hariprasath-2218/E-commerce-Website",
     },
 ]
