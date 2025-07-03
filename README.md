@@ -56,7 +56,7 @@ my_portfolio/
 
 You can explore the live version of my portfolio at:
 
-🔗 [portfolio.hariprasath.dev](https://https://hariprasath-mern-stack-developer.vercel.app/)
+🔗 [portfolio.hariprasath.dev](https://hariprasath-mern-stack-developer.vercel.app/)
 
 > Optimized for all devices with animated backgrounds, theme toggling, and interactive UI elements.
 
