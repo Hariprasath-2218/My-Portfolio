@@ -10,13 +10,19 @@ function App() {
   return (
     <>
       {!isLoaded && <LoadingScreen onComplete={() => setIsLoaded(true)}/>}
+      <div
+        className={`min-h-screen transition-opacity duration-700 ${
+          isLoaded ? "opacity-100" : "opacity-0"
+        }`}
+      >
       <Toaster/>
       <BrowserRouter>
-        <Routes>
+        <Routes> 
           <Route index element={<Home/>}/>
           <Route path="*" element={<NotFound/>}/>
         </Routes>
       </BrowserRouter> 
+      </div>
     </>
   )
 }
