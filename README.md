@@ -34,6 +34,7 @@ npm run dev
 ```
 
 ## 📁 Folder Structure
+```
 my_portfolio/
 ├── src/
 │   ├── components/      # Reusable UI elements (Navbar, Footer, ProjectCard, etc.)
@@ -47,7 +48,7 @@ my_portfolio/
 ├── tailwind.config.js   # Tailwind CSS configuration
 ├── package.json         # Project metadata and scripts
 └── README.md            # Project overview
-
+```
 
 ---
 
