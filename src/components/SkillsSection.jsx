@@ -5,32 +5,40 @@ import { cn } from "@/lib/utils";
 const skills = [
     // Frontend
     {name: "HTML/CSS", level: 95, category: "frontend" },
-    {name: "JavaScript", level: 90, category: "frontend" },
-    {name: "React", level: 90, category: "frontend" },
     {name: "Bootstrap", level: 85, category: "frontend" },
     {name: "Tailwind CSS", level: 90, category: "frontend" },
+    {name: "React", level: 90, category: "frontend" },
+    {name: "React Native", level: 85, category: "frontend" },
 
     // Backend
     { name: "Node.js", level: 80, category: "backend" },
     { name: "Express", level: 75, category: "backend" },
     { name: "MongoDB", level: 70, category: "backend" },
+    { name: "Redis", level: 80, category: "backend" },
     // { name: "PostgreSQL", level: 65, category: "backend" },
     // { name: "MySQL", level: 60, category: "backend" },
+
+    //Languages
+    { name: "Python", level: 80, category: "Languages" },
+    { name: "Java", level: 85, category: "Languages" },
+    { name: "JavaScript", level: 90, category: "Languages" },
+    { name: "C", level: 80, category: "Languages" },
 
     //Tools
     { name: "Git/GitHub", level: 90, category: "tools" },
     { name: "Docker", level: 70, category: "tools" },
     { name: "Figma", level: 85, category: "tools"},
     { name: "VS Code", level: 95, category: "tools"},
+    { name: "Eclipse", level: 95, category: "tools"},
 
     //Others
     { name: "Redux", level: 80, category: "frontend"},
     { name: "Mongoose", level: 75, category: "backend"},
-    // { name: "JWT Authentication", level: 70, category: "backend"},
+    { name: "JWT Authentication", level: 90, category: "backend"},
     { name: "Firebase(Basics)", level: 85, category: "backend"},
 ];
 
-const categories = ["all","frontend","backend","tools"];
+const categories = ["all","frontend","backend","Languages","tools"];
 
 export const SkillsSection = () => {
       const [activeCategory, setActiveCategory] = useState("all");
