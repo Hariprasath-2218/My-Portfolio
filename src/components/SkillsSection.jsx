@@ -38,7 +38,7 @@ const skills = [
     { name: "Firebase(Basics)", level: 85, category: "backend"},
 ];
 
-const categories = ["all","frontend","backend","Languages","tools"];
+const categories = ["all","frontend","backend","tools"];
 
 export const SkillsSection = () => {
       const [activeCategory, setActiveCategory] = useState("all");
